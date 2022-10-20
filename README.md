@@ -1,7 +1,7 @@
 # Loss and Prosociality Data
 This repository contains raw data pertaining to:
 
-Zhang, Y., … & Feng, C. Loss context enhances preferences for generosity but reduces preferences for honesty: evidence from a combined behavioral-computational approach. European journal of social psychology.
+Zhang, Y., … & Feng, C. Loss context enhances preferences for generosity but reduces preferences for honesty: evidence from a combined behavioral-computational approach. European journal of social psychology, in press.
 
 All data used to perform analyses from the paper are in the loss_prosociality_data.csv
 
@@ -19,4 +19,4 @@ Thus, we totally have four conditions: DG_loss, DG_gain, MG_loss, MG_gain
 9. decision = 1/2, 1 means participant chose the advantage option, 2 means participant chose the disadvantage option
 
 # Acknowledgments
-The authors would like to acknowledge Chunliang Feng, Yue-jia Luo, Ruolei Gu, Yuzhu Zhai, Xingmei Zhou and Zhixin Zhang.
+None
