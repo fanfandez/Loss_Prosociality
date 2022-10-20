@@ -11,12 +11,12 @@ All code used to perform analyses from the paper are in the loss_prosociality_da
 
 Thus, we totally have four conditions: DG_loss, DG_gain, MG_loss, MG_gain
 
-5. t = the number of trial of each condition, range from 1 to 12
-6. Ms_ad = money for self of the advantage option, the advantage option means Ms_ad > Mo_ad
-7. Mo_ad = money for other of the advantage option
-8. Ms_disad = money for self of the disadvantage option, the disadvantage option means Ms_disad < Mo_disad
-9. Mo_disad = money for other of the disadvantage option
-10. decision = 1/2, 1 means participant chose the advantage option, 2 means participant chose the disadvantage option
+4. t = the number of trial of each condition, range from 1 to 12
+5. Ms_ad = money for self of the advantage option, the advantage option means Ms_ad > Mo_ad
+6. Mo_ad = money for other of the advantage option
+7. Ms_disad = money for self of the disadvantage option, the disadvantage option means Ms_disad < Mo_disad
+8. Mo_disad = money for other of the disadvantage option
+9. decision = 1/2, 1 means participant chose the advantage option, 2 means participant chose the disadvantage option
 
 # Acknowledgments
 The authors would like to acknowledge Chunliang Feng, Yue-jia Luo, Ruolei Gu, Yuzhu Zhai, Xingmei Zhou and Zhixin Zhang.
