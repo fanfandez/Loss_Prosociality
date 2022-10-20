@@ -17,6 +17,3 @@ Thus, we totally have four conditions: DG_loss, DG_gain, MG_loss, MG_gain
 7. Ms_disad = money for self of the disadvantage option, the disadvantage option means Ms_disad < Mo_disad
 8. Mo_disad = money for other of the disadvantage option
 9. decision = 1/2, 1 means participant chose the advantage option, 2 means participant chose the disadvantage option
-
-# Acknowledgments
-None
